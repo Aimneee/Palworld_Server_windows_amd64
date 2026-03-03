@@ -18,6 +18,6 @@
 
 [Configuration parameters | Palworld Server Guide](https://docs.palworldgame.com/settings-and-operation/configuration)
 
-1.  网络中转服务器的配置在StartAll.bat中
+4.网络中转服务器的配置在StartAll.bat中
 
 右键->编辑找到npc -server=206.237.127.163:8024 -vkey=123456 -type=tcp修改相关参数
