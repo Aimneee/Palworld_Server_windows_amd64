@@ -21,3 +21,7 @@
 4.网络中转服务器的配置在StartAll.bat中
 
 右键->编辑找到npc -server=206.237.127.163:8024 -vkey=123456 -type=tcp修改相关参数
+
+**_··小工具··_**
+
+[存档更改工具](https://github.com/deafdudecomputers/PalworldSaveTools?tab=readme-ov-file)
