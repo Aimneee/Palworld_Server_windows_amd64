@@ -6,22 +6,22 @@
 
 **_··如何进入服务器··_**
 
-1.启动游戏在游戏客户端的加入服务器中输入本服务器的地址:端口就可以加入服务器。
+1.  启动游戏在游戏客户端的加入服务器中输入本服务器的地址:端口就可以加入服务器。
 
 **_··如何配置服务器（需要启动已有存档）··_**
 
-1.将Saved\\XXXXXX的存档文件拷贝至palworld_server\\Pal\\Save\\0 文件夹中后启动游戏即可运行已有存档。若已有Saved文件夹，请用已有存档覆盖文件夹中的内容。
+1.  将Saved\\XXXXXX的存档文件拷贝至palworld_server\\Pal\\Save\\0 文件夹中后启动游戏即可运行已有存档。若已有Saved文件夹，请用已有存档覆盖文件夹中的内容。
 
-2.服务器密码在palworld_server\\Pal\\Saved\\Config\\WindowsServer\\PalWorldSettings.ini配置文件中设置，若没有上述文件则将PalServer\\DefaultPalWorldSettings.ini文件拷贝至上述文件夹中并重命名为PalWorldSettings.ini
+2.  服务器密码在palworld_server\\Pal\\Saved\\Config\\WindowsServer\\PalWorldSettings.ini配置文件中设置，若没有上述文件则将PalServer\\DefaultPalWorldSettings.ini文件拷贝至上述文件夹中并重命名为PalWorldSettings.ini
 
-3.设置服务器参数请改动palworld_server\\Pal\\Saved\\Config\\WindowsServer\\PalWorldSettings.ini文件，参数设置请参考下面的官网地址。
+3.  设置服务器参数请改动palworld_server\\Pal\\Saved\\Config\\WindowsServer\\PalWorldSettings.ini文件，参数设置请参考下面的官网地址。
 
 [Configuration parameters | Palworld Server Guide](https://docs.palworldgame.com/settings-and-operation/configuration)
 
-4.网络中转服务器的配置在StartAll.bat中
+4.  网络中转服务器的配置在StartAll.bat中
 
 右键->编辑找到npc -server=206.237.127.163:8024 -vkey=123456 -type=tcp修改相关参数
 
 **_··小工具··_**
 
-[存档更改工具](https://github.com/deafdudecomputers/PalworldSaveTools?tab=readme-ov-file)
+1.  [存档更改工具](https://github.com/deafdudecomputers/PalworldSaveTools?tab=readme-ov-file)
