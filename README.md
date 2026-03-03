@@ -16,7 +16,7 @@
 
 3.  设置服务器参数请改动palworld_server\\Pal\\Saved\\Config\\WindowsServer\\PalWorldSettings.ini文件，参数设置请参考下面的官网地址。
 
-[Configuration parameters | Palworld Server Guide](https://docs.palworldgame.com/settings-and-operation/configuration)
+    [Configuration parameters | Palworld Server Guide](https://docs.palworldgame.com/settings-and-operation/configuration)
 
 4.  网络中转服务器的配置在StartAll.bat中。右键->编辑找到npc -server=206.237.127.163:8024 -vkey=123456 -type=tcp修改相关参数
 
